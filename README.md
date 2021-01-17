@@ -10,7 +10,7 @@
   * - 4. Used pure JS; :white_check_mark:
   * - 5. Product volume - default 100 ml, displacement selection added; :white_check_mark:
   * - 6. Completed quantity selection (next to the buy button) made as base 1 (you cannot get less) implemented an increase and decrease in the number of goods; :white_check_mark:
-  * - 7. A bunch of prices and volumes of goods will be a plus; x:
+  * - 7. A bunch of prices and volumes of goods will be a plus; :x:
   
   
  
